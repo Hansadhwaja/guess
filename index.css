@@ -1,0 +1,57 @@
+.bodyClass{
+    background-color:#414141;
+    color:#fff;
+    text-align:center;
+}
+.upperField{
+    width:300px;
+    margin:  auto;
+}
+
+.form{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    margin-top:60px;
+}
+
+.label{
+font-size:20px;
+font-weight:bold;
+text-align:left;
+
+}
+
+#inputGuess{
+    padding:10px;
+    font-size:16px;
+    border-radius:12px;
+}
+
+.button{
+    width:120px;
+    height:40px;
+    border-radius:12px;
+    background-color:orange;
+    font-weight:bold;
+    font-size:16px;
+    margin:auto;
+
+}
+
+.lowerField{
+    margin-top:60px;
+    
+}
+
+#newButton{
+    width:120px;
+    height:40px;
+    border-radius:12px;
+    background-color:orange;
+    font-weight:bold;
+    font-size:16px;
+    margin:auto;
+    display: none;
+
+}
